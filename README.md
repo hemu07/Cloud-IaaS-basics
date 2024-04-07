@@ -1,4 +1,4 @@
-![image](https://github.com/hemu07/Cloud-IaaS-basics/assets/90203539/03d8deba-20a0-40e7-b0d1-465e7ffb1e78)###Cloud-IaaS-basics
+###Cloud-IaaS-basics
 
 - create a server (EC2 instance) on AWS and deploy an application on it
   
@@ -25,7 +25,8 @@
     ![image](https://github.com/hemu07/Cloud-IaaS-basics/assets/90203539/8fcf70c0-d074-4664-aafe-033fc1ced93b)
 
     ![image](https://github.com/hemu07/Cloud-IaaS-basics/assets/90203539/20c5697f-7810-4cef-8ce6-fc57f0770474)
-
+    ![image](https://github.com/hemu07/Cloud-IaaS-basics/assets/90203539/03d8deba-20a0-40e7-b0d1-465e7ffb1e78)
+    
     - Run the app on the server
     ![image](https://github.com/hemu07/Cloud-IaaS-basics/assets/90203539/55d8dae1-bed6-4787-9de4-f029b176319a)
 
